@@ -16,7 +16,7 @@ else:
 
 #this is the comment and not going to execute
 c="Ritesh Thakkar"
-print(c)
+# print(c)
 print(type(c))
 print(len(c))
 print(c[1:14])
